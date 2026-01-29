@@ -1,5 +1,7 @@
 # 📊 Virtual Options Trading Dashboard (Intraday – Current Expiry)
 
+![Virtual Options Trading Dashboard](Images/Dashboard.png)
+
 ## Overview
 This Excel-based **Virtual Options Trading Dashboard** is a **real-time intraday simulator** designed to test and evaluate **options trading strategies** without risking real capital.
 
@@ -159,13 +161,3 @@ This tool is strictly for **educational and simulation purposes only**.
 It does **not place real trades** and should not be considered financial advice.
 
 ---
-
-## 🛠 Future Enhancements (Optional)
-- Multi-strategy simultaneous tracking
-- Historical expiry back-testing
-- Greeks visualization
-- Performance analytics dashboard
-
----
-
-**Happy Virtual Trading 🚀**
