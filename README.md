@@ -4,6 +4,14 @@
 
 ![Virtual Options Trading Dashboard](Images/Dashboard.png)
 
+## 🎥 Demo Video
+
+The following video demonstrates the **Virtual Options Trading Dashboard** operating on **live market data**, showcasing strategy construction, tick-by-tick P&L movement, target/stop-loss behavior, and trade logging.
+
+▶️ https://youtu.be/jG9aako0Kmc
+
+> Recorded during live market hours using real-time option chain data.
+
 ## Overview
 This Excel-based **Virtual Options Trading Dashboard** is a **real-time intraday simulator** designed to test and evaluate **options trading strategies** without risking real capital.
 
